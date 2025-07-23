@@ -1,1 +1,3 @@
 # size_matters_app
+
+**size_matters_app** is a simple yet incredibly useful web application designed to help you compress multimedia files—including images, videos, and PDFs. By reducing file sizes, the app makes it easier to share, store, and manage your media across a wide range of uses. Whether you need to save space, speed up uploads, or meet file size requirements, size_matters_app provides an intuitive solution.
